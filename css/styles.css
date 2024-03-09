@@ -48,6 +48,7 @@ h2 {
 .ingredients ul,
 .instructions ol {
   margin: 20px 0;
+  padding-left: 30px;
 }
 
 .ingredients li,
